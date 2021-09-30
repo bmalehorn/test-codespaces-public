@@ -1,0 +1,8 @@
+{
+  "name": "test-codespaces",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "postCreateCommand": "echo 'Brian was here' >> ~/bmalehorn"
+}

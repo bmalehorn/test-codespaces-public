@@ -1,7 +1,0 @@
-{
-  "name": "service 2",
-  "build": {
-    "dockerfile": "Dockerfile",
-    "context": ".."
-  }
-}
